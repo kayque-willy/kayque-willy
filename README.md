@@ -91,14 +91,30 @@ A sample of my recent articles:
 
 <h2>Experiência</h2>
 
-- [Jio Platforms Limited](https://www.jio.com/)
-  - <b>Full Stack Developer</b> - <b>December 2022 - April 2024</b>
-  - <b>Graduate Enginner Trainee</b> - <b>July 2022 - December 2022</b>
-- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - July 2022</b>
-- [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Intern</b> - <b>July 2021 - Present</b>
-- [Aaradhya Services](https://aaradhyaservices.in/) - <b>Freelenace Website Developer</b> - <b>Jun 2021 - Jul 2021</b>
-- [HaleAI](http://13.232.87.90/) - <b>Full Stack Development Intern</b> - <b>Mar 2020 - Jun 2021 </b>
-- [EntreSpace](https://entrespace.in/) - <b>Freelance Web Developer</b> - <b>Feb 2021 - Mar 2021</b>
+- [GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)
+    - <b>Desenvolvedor de sistemas web full stack</b> - mai de 2023 - o momento · 1 ano e 5 meses
+    - <b>Desenvolvedor de sistemas bancários</b> - mai de 2023 - o momento · 1 ano e 5 meses
+        - Internet Banking (Frontend e Backend)
+        - Core Banking (Web Services e Micro Services)
+        - Integração com Bancos Externos
+        - Integração com Sistemas internos e externos<br/>
+        
+- [Mestrado em Ciência e Tecnologia da Computação - UNIFEI (CAPES)](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais)
+    - <b>Bolsistas Pesquisador em Desenvolvimento de Software</b> - fev de 2018 - mar de 2020 · 2 anos 2 meses
+        - [Gamification of Citizen Participation: A Systematic Mapping - IEEE Transactions on Games](https://ieeexplore.ieee.org/document/9927332) · 25 de out de 2022
+        - [Gamification of Online Surveys: A Systematic Mapping - IEEE Transactions on Games](https://ieeexplore.ieee.org/document/9123672) · 23 de jun de 2020
+        - [Uma proposta de gamificação em pesquisa de opinião para aumentar a participação cidadã - SBGames](https://www.sbgames.org/sbgames2019/files/papers/CulturaFull/197273.pdf) · 29 de out de 2019
+        - [Aplicação de um modelo de colaboração em um contexto de participação social - SBSC](https://sol.sbc.org.br/index.php/sbsc/article/view/7806) ·  3 de out de 2019
+    - <b>Estágio de Docência No Ensino Superior</b> - fev de 2018 - ago de 2019 · 1 ano e 7 meses<br/>
+    
+- [B2ML - Sistemas Ltda.](https://www.b2ml.com.br/)
+    - <b>Estagiário de desenvolvimento de software</b> - jan de 2017 - dez de 2017 · 1 ano
+        - [Link Motors](https://linkmotors.com.br/)
+        - [Juntos Energia](https://juntosenergia.com.br/)<br/>
+        
+- [Universidade Federal de Itajubá - UNIFEI](https://unifei.edu.br/)
+  - <b>Bolsista de Desenvolvimento de Software - (Projeto de Extensão Arte Estêncil Decor)</b> - jun de 2015 - jan de 2016 · 8 meses
+  - <b>Estagiário de TI - (Secretaria de Planejamento e Qualidade -SPQ)</b> - ago de 2013 - jul de 2015 · 2 anos
 
 <h2>Linguagens</h2>
 
