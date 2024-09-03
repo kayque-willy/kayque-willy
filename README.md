@@ -6,50 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-oliveira66/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kayque-willy@hotmail.comm)&nbsp;
 
-<!-- -------------------  COMENTADO -------------------
-
-<p align="left">
-    <a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anacaroliness9/">
-    <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
-  </a>
-  <a href="mailto:anacaroliness9@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
-  </a>
-<p align="center">
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel)
-
-<p align="left">
-    <a href="https://twitter.com/iamvikashkum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvikashkum" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/iamvikashkum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvikashkum" height="30" width="40" /></a>
-    <a href="https://fb.com/iamvikashkum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamvikashkum" height="30" width="40" /></a>
-    <a href="https://instagram.com/vikashkr30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashkr30" height="30" width="40" /></a>
-</p>
-
-  [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://reskimulud.my.id)&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reskimulud)&nbsp;
-  [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reskimulud)&nbsp;
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/reskimulud)&nbsp;
- 
-  [![Twitter](https://img.shields.io/badge/reski_mulud-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/reskimulud)&nbsp;
-  [![Twitter](https://img.shields.io/twitter/follow/reski_mulud?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/reski_mulud)&nbsp;
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157705184)&nbsp;
-  [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/reskimulud)&nbsp;
-  
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/reskimulud) 
-  
-  -------------------  COMENTADO ------------------- -->
-
 <h2>Sobre</h2>
 
 </br>
@@ -113,8 +69,10 @@ A sample of my recent articles:
         - [Juntos Energia](https://juntosenergia.com.br/)<br/>
         
 - <b>[Universidade Federal de Itajubá - UNIFEI](https://unifei.edu.br/)</b>
-  - <b>Bolsista de Desenvolvimento de Software - (Projeto de Extensão Arte Estêncil Decor)</b> - jun de 2015 - jan de 2016 · 8 meses
-  - <b>Estagiário de TI - (Secretaria de Planejamento e Qualidade -SPQ)</b> - ago de 2013 - jul de 2015 · 2 anos
+  - <b>Bolsista de Desenvolvimento de Software</b> - jun de 2015 - jan de 2016 · 8 meses
+      -  Projeto de Extensão Arte Estêncil Decor
+  - <b>Estagiário de TI</b> - ago de 2013 - jul de 2015 · 2 anos
+      - Secretaria de Planejamento e Qualidade (SPQ)
 
 <h2>Linguagens</h2>
 
