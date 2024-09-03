@@ -70,34 +70,22 @@ A sample of my recent articles:
 
 <table>
   <tr>
-    <th>Course</th>
-    <th>School/University</th>
-    <th>Year of Passing</th>
-    <th>Score</th>
+    <th>Curso</th>
+    <th>Instituição</th>
+    <th>Período</th>
+    <th>Nível</th>
   </tr>
   <tr>
-    <td>Master of Information Systems Management</td>
-    <td><a href="https://www.cmu.edu/">Carengie Mellon Univeristy</a></td>
-    <td>2024 - Present</td>
-    <td>-</td>
+    <td>Mestrado, Ciência e Tecnologia da Computação</td>
+    <td><a href="https://ppg-ctc.unifei.edu.br/">Universidade Federal de Itajubá</a></td>
+    <td>2018 - 2021</td>
+    <td>Mestrado</td>
   </tr>
   <tr>
-    <td>B.E. in Computer Engineering</td>
-    <td><a href="https://mu.ac.in/">Mumbai University</a></td>
-    <td>2022</td>
-    <td>8.8 CGPA</td>
-  </tr>
-  <tr>
-    <td>Higher Secondary Certification</td>
-    <td><a href="http://vvhs.edu.in/">Vasant Vihar High School & Junior College</a></td>
-    <td>2018</td>
-    <td>78.77%</td>
-  </tr>
-  <tr>
-    <td>Secondary School Certification</td>
-    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
-    <td>2016</td>
-    <td>87%</td>
+    <td>Bacharelado, Sistemas de Informação</td>
+    <td><a href="https://prg.unifei.edu.br/cursos/sistemas-de-informacao/">Universidade Federal de Itajubá</a></td>
+    <td>2014 - 2017</td>
+    <td>Graduação</td>
   </tr>
  </table>
 
