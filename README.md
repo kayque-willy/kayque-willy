@@ -97,7 +97,7 @@ A sample of my recent articles:
         - Internet Banking (Frontend e Backend)
         - Core Banking (Web Services e Micro Services)
         - Integração com Bancos Externos
-        - Integração com Sistemas internos e externos<br/>
+        - Integração com Sistemas Internos e Externos<br/>
         
 - <b>[Mestrado em Ciência e Tecnologia da Computação - UNIFEI (CAPES)](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais)</b>
     - <b>Bolsistas Pesquisador em Desenvolvimento de Software</b> - fev de 2018 - mar de 2020 · 2 anos 2 meses
