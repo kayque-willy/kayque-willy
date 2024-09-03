@@ -148,6 +148,8 @@ A sample of my recent articles:
 
 ### Plataformas
 
+### Serviços e Ferramentas
+
 <img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
