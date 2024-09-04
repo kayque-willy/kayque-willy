@@ -8,7 +8,11 @@
 
 <h2>📝 Sobre</h2>
 
-Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira66/), sou um desenvolvedor de software web e mobile e resido no Brasil. Sou formado em  [Sistemas de Informação](https://unifei.edu.br/) e tenho [Mestrado em Ciência e Tecnologia da Computação](https://ppg-ctc.unifei.edu.br/) pela [Universidade Federal de Itajubá (UNIFEI)](https://unifei.edu.br/). Durante minha trajetória, tive a oportunidade de colaborar com projetos de desenvolvimento de software nas linguagens: Java, Python, TypeScript, JavaScript, PHP e Delphi, em várias áreas, como, Web, Backend, Frontend, Full Stack e Mobile. Sou um profissional comprometido e focado, com habilidade para atender às solicitações de clientes e trabalhar em equipe, colaborando com projetos utilizando de metodologias ágeis como SCRUM e XP, além de gerenciamento de projetos conforme o PMBOK.
+Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira66/), sou um desenvolvedor fullstack web e mobile e resido no Brasil. Sou formado em [Sistemas de Informação](https://unifei.edu.br/) e tenho [Mestrado em Ciência e Tecnologia da Computação](https://ppg-ctc.unifei.edu.br/) pela [Universidade Federal de Itajubá (UNIFEI)](https://unifei.edu.br/).
+
+Durante minha trajetória, atuei com os mais diversos tipos de projetos como: Sistemas Web, Sistemas Bancários, Sistemas Orçamentários, Sistemas Colaborativos, Gestão de vendas de veículos, Gestão de consumo de energia, Avaliação Instituicional, Integrações, Gamificação e desenvolvimento de Aplicativos. Desenvolvi a pesquisa do meu mestrado no contexto de sistemas colaborativos com uso de gamificação na área de participação social. Nesses protjetos, trabalhei com as linguagens: Java, Python, TypeScript, JavaScript, PHP e Delphi. 
+
+Sou um profissional comprometido e focado, com habilidade para atender às solicitações de clientes e trabalhar em equipe, colaborando com projetos utilizando de metodologias ágeis como SCRUM e XP, além de gerenciamento de projetos conforme o PMBOK.
 
 <h2>📘 Formação</h2>
 
