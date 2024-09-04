@@ -172,96 +172,96 @@ Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira6
 
 - <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
   - <b>Internet Banking</b> <br/>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-         <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" width="49.5%"/>
+      <a href="https://azumidtvm.com.br/" target="_blank">
+         <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" width="49.5%" alt="Internet Banking (Azumi DTVM e Reag Bank) - API Connect"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG" width="49.5%"/>
+      <a href="https://azumidtvm.com.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG" width="49.5%" alt="Internet Banking (Azumi DTVM e Reag Bank) - Integração Bancária de Cobranças (CNAB 400)"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(24).PNG" width="49.5%"/>
+      <a href="https://azumidtvm.com.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(24).PNG" width="49.5%" alt="Internet Banking (Azumi DTVM e Reag Bank) - Integração Bancária de Pagamentos e Transferências (CNAB 240)"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(23).PNG" width="49.5%"/>
+      <a href="https://azumidtvm.com.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(23).PNG" width="49.5%" alt="Internet Banking (Azumi DTVM)"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(22).PNG" width="49.5%"/>
+      <a href="https://reag.com.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(22).PNG" width="49.5%" alt="Internet Banking (Reag Bank)"/>
       </a> 
   - <b>Core Banking</b><br/>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(21).PNG" width="49.5%"/>
+      <a href="https://azumidtvm.com.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(21).PNG" width="49.5%" alt="Core Banking (Azumi DTVM e Reag Bank) - Serviço de Cobranças, Pagamentos e Transferências"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(20).PNG" width="49.5%"/>
+      <a href="https://azumidtvm.com.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(20).PNG" width="49.5%" alt="Core Banking (Azumi DTVM e Reag Bank) - Serviço de Protestos"/>
       </a>
         
 - <b>[Mestrado em Ciência e Tecnologia da Computação - UNIFEI (CAPES)](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais)</b>
 
    - <b>Opina Aí</b> <br/>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(13).PNG" width="49.5%"/>
+      <a href="https://www.neiru.org/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(13).PNG" width="49.5%" alt="Opina Aí - Web Site"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(14).PNG" width="49.5%"/>
+      <a href="https://play.google.com/store/apps/details?id=io.ionic.neirusurveysapp&hl=pt_BR&gl=US" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(14).PNG" width="49.5%" alt="Opina Aí - App"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(16).PNG" width="49.5%"/>
+      <a href="https://www.neiru.org/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(16).PNG" width="49.5%" alt="Opina Aí - API RESTFUL"/>
       </a>
     
    - <b>Neiru Agentes</b> <br/>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(18).PNG" width="49.5%"/>
+      <a href="https://www.neiru.org/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(18).PNG" width="49.5%" alt="NEIRU Agentes - API RESTFUL"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(19).PNG" width="49.5%"/>
+      <a href="https://play.google.com/store/search?q=neiru+agentes&c=apps&hl=pt_BR&gl=US&pli=1" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(19).PNG" width="49.5%" alt="NEIRU Agentes - App"/>
       </a>
       
 - <b>[B2ML - Sistemas Ltda.](https://www.b2ml.com.br/)</b>
 
   - <b>Link Motors</b> <br/>
-    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(7).PNG" width="49.5%"/>
+    <a href="https://www.linkmotors.com.br/" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(7).PNG" width="49.5%" alt="Link Motors - Web Site"/>
     </a>
-    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(8).PNG" width="49.5%"/>
+    <a href="https://www.linkmotors.com.br/" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(8).PNG" width="49.5%" alt="Link Motors - API RESTFUL"/>
     </a>
     
   - <b>Juntos Energia</b> <br/>
-    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(9).PNG" width="49.5%"/>
+    <a href="https://juntosenergia.com.br/" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(9).PNG" width="49.5%" alt="Juntos Energia Compartilhada - Web Site"/>
     </a>
-    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(10).PNG" width="49.5%"/>
+    <a href="https://juntosenergia.com.br/" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(10).PNG" width="49.5%" alt="Juntos Energia Compartilhada - API Web Flux"/>
     </a>
-    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(11).PNG" width="49.5%"/>
+    <a href="https://juntosenergia.com.br/" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(11).PNG" width="49.5%" alt="Juntos Energia Compartilhada - API RESTFUL"/>
     </a>
-    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(12).PNG" width="49.5%"/>
+    <a href="https://play.google.com/store/apps/details?id=com.enecred.enercredapp&hl=pt_BR&gl=US" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(12).PNG" width="49.5%" alt="Juntos Energia Compartilhada - App"/>
     </a>
     
   - <b>Rakuten</b> <br/>
-    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(6).PNG" width="49.5%"/>
+    <a href="https://www.rakuten.com/" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(6).PNG" width="49.5%" alt="Rakuten - API RESTFUL"/>
     </a>
         
 - <b>[Universidade Federal de Itajubá - UNIFEI](https://unifei.edu.br/)</b>
   <br/>
     - <b>Estagiário de TI - Secretaria de Planejamento e Qualidade (SPQ)</b> <br/>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(1).PNG" width="49.5%"/>
+      <a href="" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(1).PNG" width="49.5%" alt="Sistema de Gestão Orçamentário (SPQ)"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(2).PNG" width="49.5%"/>
+      <a href="https://cpa.unifei.edu.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(2).PNG" width="49.5%" alt="Sistema de Avaliação Institucional (CPA) - API"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(3).PNG" width="49.5%"/>
+      <a href="https://cpa.unifei.edu.br/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(3).PNG" width="49.5%" alt="Sistema de Avaliação Institucional (CPA)"/>
       </a>
 
    - <b>Bolsista de Desenvolvimento de Software - Projeto de Extensão Arte Estêncial Decor</b> <br/>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(4).PNG" width="49.5%"/>
+      <a href="https://unifei.edu.br/unifei-realiza-o-projeto-estencil-arte-decor/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(4).PNG" width="49.5%" alt="E-Commerce da Associação Artes da Terra (AAT)"/>
       </a>
-      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(5).PNG" width="49.5%"/>
+      <a href="https://unifei.edu.br/unifei-realiza-o-projeto-estencil-arte-decor/" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(5).PNG" width="49.5%" alt="Projeto de Extensão Arte Estêncil Decor "/>
       </a>
