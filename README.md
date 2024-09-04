@@ -10,9 +10,9 @@
 
 Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira66/), sou um desenvolvedor fullstack web e mobile e resido no Brasil. Sou formado em [Sistemas de Informação](https://unifei.edu.br/) e tenho [Mestrado em Ciência e Tecnologia da Computação](https://ppg-ctc.unifei.edu.br/) pela [Universidade Federal de Itajubá (UNIFEI)](https://unifei.edu.br/).
 
-Durante minha trajetória, atuei com os mais diversos tipos de projetos como: Sistemas Web, Sistemas Bancários, Sistemas Orçamentários, Sistemas Colaborativos, Gestão de vendas de veículos, Gestão de consumo de energia, Avaliação Instituicional, Integrações, Gamificação e desenvolvimento de Aplicativos. Desenvolvi a pesquisa do meu mestrado no contexto de sistemas colaborativos com uso de gamificação na área de participação social. Nesses protjetos, trabalhei com as linguagens: Java, Python, TypeScript, JavaScript, PHP e Delphi. 
+Durante minha trajetória, atuei com os mais diversos tipos de projetos como: Sistemas Web, Sistemas Bancários, Sistemas Orçamentários, Sistemas Colaborativos, Web Services, Micro Services, Gestão de vendas de veículos, Gestão de consumo de energia, Avaliação Instituicional, Integrações, Gamificação e desenvolvimento de Aplicativos. Desenvolvi a pesquisa do meu mestrado no contexto de sistemas colaborativos com uso de gamificação na área de participação social. Nesses protjetos, trabalhei com as linguagens: Java, Python, TypeScript, JavaScript, PHP e Delphi.
 
-Sou um profissional comprometido e focado, com habilidade para atender às solicitações de clientes e trabalhar em equipe, colaborando com projetos utilizando de metodologias ágeis como SCRUM e XP, além de gerenciamento de projetos conforme o PMBOK.
+Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado, estou constantemente buscando novas tecnologias e aprendendo sobre elas. Sou uma pessoa motivada, com capacidade técnica, experiência em resolução de problemas, excelente gerenciamento de tempo e experiência em trabalho em equipe. Nos quais, colaborei em projetos utilizando-se de metodologias ágeis como SCRUM e XP, conforme o PMBOK.
 
 <h2>📘 Formação</h2>
 
