@@ -174,20 +174,20 @@ I support Manchester United and Barcelona.
 - <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
   - <b>Internet Banking</b> <br/>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" style="max-width: 49%"/>
+         <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" width="48%"/>
       </a>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG"  style="max-width: 49%"/>
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG" width="48%"/>
       </a>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(24).PNG" />
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(24).PNG" width="48%"/>
       </a>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(23).PNG" />
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(23).PNG" width="48%"/>
       </a>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(22).PNG" />
-      </a>
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(22).PNG" width="48%"/>
+      </a> 
   - <b>Core Banking</b><br/>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
         <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(21).PNG" />
