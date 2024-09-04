@@ -6,13 +6,11 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kayque-willy@hotmail.comm)&nbsp;
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayque-willy)
 
-<h2>Sobre</h2>
-
-</br>
+<h2>📝 Sobre</h2>
 
 Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira66/), sou um desenvolvedor de software web e mobile e resido no Brasil. Sou formado em  [Sistemas de Informação](https://unifei.edu.br/) e tenho [Mestrado em Ciência e Tecnologia da Computação](https://ppg-ctc.unifei.edu.br/) pela [Universidade Federal de Itajubá (UNIFEI)](https://unifei.edu.br/). Durante minha trajetória, tive a oportunidade de colaborar com projetos de desenvolvimento de software nas linguagens: Java, Python, TypeScript, JavaScript, PHP e Delphi, em várias áreas, como, Web, Backend, Frontend, Full Stack e Mobile. Sou um profissional comprometido e focado, com habilidade para atender às solicitações de clientes e trabalhar em equipe, colaborando com projetos utilizando de metodologias ágeis como SCRUM e XP, além de gerenciamento de projetos conforme o PMBOK.
 
-<h2>Formação</h2>
+<h2>📘 Formação</h2>
 
 <table>
   <tr>
@@ -35,7 +33,7 @@ Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira6
   </tr>
  </table>
 
-<h2>Experiência</h2>
+<h2>🏦 Experiência</h2>
 
 - <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
     - <b>Desenvolvedor de sistemas web full stack</b> - mai de 2023 - o momento · 1 ano e 5 meses
@@ -64,7 +62,7 @@ Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira6
   - <b>Estagiário de TI</b> - ago de 2013 - jul de 2015 · 2 anos
       - Secretaria de Planejamento e Qualidade (SPQ)
 
-<h2>Linguagens</h2>
+<h2>💻 Linguagens</h2>
 
 </br>
 
@@ -82,7 +80,7 @@ Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira6
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
-<h2>Tecnologias</h2>
+<h2>🛠️ Tecnologias</h2>
 
 ### Desenvolvimento Web (FrontEnd)
 
@@ -168,7 +166,7 @@ Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira6
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-<h2>Projetos</h2>
+<h2>📈 Projetos</h2>
 
 - <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
   - <b>Internet Banking</b> <br/>
