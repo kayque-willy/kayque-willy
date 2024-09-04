@@ -174,10 +174,10 @@ I support Manchester United and Barcelona.
 - <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
   - <b>Internet Banking</b> <br/>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" />
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" style="max-width: 49%"/>
       </a>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG" />
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG"  style="max-width: 49%"/>
       </a>
       <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
         <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(24).PNG" />
@@ -245,8 +245,6 @@ I support Manchester United and Barcelona.
     <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
       <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(6).PNG" />
     </a>
-  
-
         
 - <b>[Universidade Federal de Itajubá - UNIFEI](https://unifei.edu.br/)</b>
   <br/>
