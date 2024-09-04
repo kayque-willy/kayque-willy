@@ -172,110 +172,97 @@ I support Manchester United and Barcelona.
 <h2>Projetos</h2>
 
 - <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
-  <br/>
+  - <b>Internet Banking</b> <br/>
+      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" />
+      </a>
+      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG" />
+      </a>
+      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(24).PNG" />
+      </a>
+      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(23).PNG" />
+      </a>
+      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(22).PNG" />
+      </a>
+  - <b>Core Banking</b><br/>
+      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(21).PNG" />
+      </a>
+      <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+        <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(20).PNG" />
+      </a>
         
 - <b>[Mestrado em Ciência e Tecnologia da Computação - UNIFEI (CAPES)](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais)</b>
-  <br/>
+
+   - <b>Opina Aí</b> <br/>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(13).PNG" />
+    </a>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(14).PNG" />
+    </a>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(16).PNG" />
+    </a>
     
+   - <b>Neiru Agentes</b> <br/>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(18).PNG" />
+    </a>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(19).PNG" />
+    </a>
+      
 - <b>[B2ML - Sistemas Ltda.](https://www.b2ml.com.br/)</b>
-  <br/>
+
+  - <b>Link Motors</b> <br/>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(7).PNG" />
+    </a>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(8).PNG" />
+    </a>
+    
+  - <b>Juntos Energia</b> <br/>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(9).PNG" />
+    </a>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(10).PNG" />
+    </a>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(11).PNG" />
+    </a>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(12).PNG" />
+    </a>
+    
+  - <b>Rakuten</b> <br/>
+    <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+      <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(6).PNG" />
+    </a>
+  
+
         
 - <b>[Universidade Federal de Itajubá - UNIFEI](https://unifei.edu.br/)</b>
   <br/>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(1).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(2).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(3).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(4).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(5).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(6).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(7).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(8).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(9).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(10).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(11).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(12).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(13).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(14).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(15).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(16).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(17).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(18).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(19).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(20).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(21).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(22).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(23).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(24).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(25).PNG" />
-</a>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(26).PNG" />
-</a>
-
-</br>
-
-- [Nome do Projeto](https://www.jio.com/)
-  - <b>December 2022 - April 2024</b>
-  - <b>Descrição do projeto</b> 
-  - <b>Linguagem</b>
-
-- [Nome do Projeto](https://www.jio.com/)
-  - <b>December 2022 - April 2024</b>
-  - <b>Descrição do projeto</b> 
-  - <b>Linguagem</b>
-
-- [Nome do Projeto](https://www.jio.com/)
-  - <b>December 2022 - April 2024</b>
-  - <b>Descrição do projeto</b> 
-  - <b>Linguagem</b>
-
+  <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+    <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(1).PNG" />
+  </a>
+  <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+    <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(2).PNG" />
+  </a>
+  <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+    <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(3).PNG" />
+  </a>
+  <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+    <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(4).PNG" />
+  </a>
+  <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+    <img align="center" src="https://github.com/kayque-willy/kayque-willy/blob/main/Projeto%20(5).PNG" />
+  </a>
