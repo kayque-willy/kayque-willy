@@ -2,16 +2,15 @@
 
 <h1 align="left">Kayque Oliveira - Developer, Master in Computer Science</h1>
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayque-willy)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-oliveira66/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kayque-willy@hotmail.comm)&nbsp;
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayque-willy)
 
 <h2>Sobre</h2>
 
 </br>
 
-Hi, I'm [Kayque Oliveira](https://www.abhishekmaira.com/), a web and app developer from Brazil. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa.
-I support Manchester United and Barcelona.
+Olá, meu nome é [Kayque Oliveira](https://www.linkedin.com/in/kayque-oliveira66/), sou um desenvolvedor de software web e mobile e resido no Brasil. Sou formado em  [Sistemas de Informação](https://unifei.edu.br/) e tenho [Mestrado em Ciência e Tecnologia da Computação](https://ppg-ctc.unifei.edu.br/) pela [Universidade Federal de Itajubá (UNIFEI)](https://unifei.edu.br/). Durante minha trajetória, tive a oportunidade de colaborar com projetos de desenvolvimento de software nas linguagens: Java, Python, TypeScript, JavaScript, PHP e Delphi, em várias áreas, como, Web, Backend, Frontend, Full Stack e Mobile. Sou um profissional comprometido e focado, com habilidade para atender às solicitações de clientes e trabalhar em equipe, colaborando com projetos utilizando de metodologias ágeis como SCRUM e XP, além de gerenciamento de projetos conforme o PMBOK.
 
 <h2>Formação</h2>
 
