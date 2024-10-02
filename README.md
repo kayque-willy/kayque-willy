@@ -3,7 +3,7 @@
 <h1 align="left">Kayque Oliveira - Developer, Master in Computer Science</h1>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-oliveira66/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kayque-willy@hotmail.comm)&nbsp;
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kayque-willy@hotmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayque-willy)
 
 <h2>📝 Sobre</h2>
