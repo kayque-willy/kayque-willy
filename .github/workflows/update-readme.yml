@@ -1,8 +1,8 @@
-name: Update README with current date
+name: Update README with current date and experience
 
 on:
   schedule:
-    # Define para rodar diariamente
+    # Executa diariamente à meia-noite
     - cron: '0 0 * * *'
 
 jobs:
@@ -12,17 +12,65 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Get current date
-        run: echo "CURRENT_DATE=$(date '+%Y-%m-%d')" >> $GITHUB_ENV
+      - name: Get experience duration
+        id: get_experience
+        shell: bash
+        run: |
+          START_DATE="2023-05-01"
+          CURRENT_DATE=$(date '+%Y-%m-%d')
+
+          # Extrai ano e mês das datas
+          START_YEAR=$(date -d "$START_DATE" '+%Y')
+          START_MONTH=$(date -d "$START_DATE" '+%m')
+
+          CURRENT_YEAR=$(date '+%Y')
+          CURRENT_MONTH=$(date '+%m')
+
+          # Calcula a diferença total em meses
+          TOTAL_MONTHS_START=$((START_YEAR * 12 + START_MONTH))
+          TOTAL_MONTHS_CURRENT=$((CURRENT_YEAR * 12 + CURRENT_MONTH))
+          MONTHS_DIFF=$((TOTAL_MONTHS_CURRENT - TOTAL_MONTHS_START))
+
+          # Converte para anos e meses
+          YEARS=$((MONTHS_DIFF / 12))
+          MONTHS=$((MONTHS_DIFF % 12))
+
+          # Monta a string de experiência
+          EXPERIENCE=""
+          if [ "$YEARS" -gt "0" ]; then
+            if [ "$YEARS" -eq "1" ]; then
+              EXPERIENCE="$YEARS ano"
+            else
+              EXPERIENCE="$YEARS anos"
+            fi
+          fi
+
+          if [ "$MONTHS" -gt "0" ]; then
+            if [ -n "$EXPERIENCE" ]; then
+              EXPERIENCE="$EXPERIENCE e "
+            fi
+            if [ "$MONTHS" -eq "1" ]; then
+              EXPERIENCE="${EXPERIENCE}${MONTHS} mês"
+            else
+              EXPERIENCE="${EXPERIENCE}${MONTHS} meses"
+            fi
+          fi
+
+          # Caso menos de um mês
+          if [ -z "$EXPERIENCE" ]; then
+            EXPERIENCE="menos de um mês"
+          fi
+
+          echo "EXPERIENCE=$EXPERIENCE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s/Última atualização:.*/Última atualização: ${{ env.CURRENT_DATE }}/" README.md
+          sed -i "s/{{EXPERIENCE}}/${{ env.EXPERIENCE }}/g" README.md
 
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update README with current date"
+          git commit -m "Update README with current experience duration"
           git push
