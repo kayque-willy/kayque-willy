@@ -68,6 +68,10 @@ jobs:
         run: |
           sed -i "s/{{EXPERIENCE}}/${{ env.EXPERIENCE }}/g" README.md
 
+      - name: Restore placeholder for next update
+        run: |
+          sed -i "s/${{ env.EXPERIENCE }}/{{EXPERIENCE}}/g" README.md
+
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
