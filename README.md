@@ -40,8 +40,8 @@ Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado,
 <h2>🏦 Experiência</h2>
 
 - <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
-    - <b>Desenvolvedor de sistemas web full stack</b> - mai de 2023 - o momento · {{EXPERIENCE}}
-    - <b>Desenvolvedor de sistemas bancários</b> - mai de 2023 - o momento · {{EXPERIENCE}}
+    - <b>Desenvolvedor de sistemas web full stack</b> -  # · 
+    - <b>Desenvolvedor de sistemas bancários</b> -  # · 
         - Internet Banking (Frontend e Backend)
         - Core Banking (Web Services e Micro Services)
         - Integração com Bancos Externos
