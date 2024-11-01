@@ -48,7 +48,7 @@ Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado,
         - Integração com Sistemas Internos e Externos<br/>
         
 - <b>[Mestrado em Ciência e Tecnologia da Computação - UNIFEI (CAPES)](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais)</b>
-    - <b>Bolsistas Pesquisador em Desenvolvimento de Software</b> - fev de 2018 - mar de 2020 · 2 anos 2 meses
+    - <b>Bolsistas Pesquisador em Desenvolvimento de Software</b> - fev de 2018 - mar de 2020 · 2 anos e 2 meses
         - [Gamification of Citizen Participation: A Systematic Mapping (IEEE Transactions on Games)](https://ieeexplore.ieee.org/document/9927332) · 25 de out de 2022
         - [Gamification of Online Surveys: A Systematic Mapping (IEEE Transactions on Games)](https://ieeexplore.ieee.org/document/9123672) · 23 de jun de 2020
         - [Uma proposta de gamificação em pesquisa de opinião para aumentar a participação cidadã (SBGames)](https://www.sbgames.org/sbgames2019/files/papers/CulturaFull/197273.pdf) · 29 de out de 2019
