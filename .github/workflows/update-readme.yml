@@ -40,9 +40,17 @@ jobs:
           EXPERIENCE=""
           if [ "$YEARS" -gt "0" ]; then
             if [ "$YEARS" -eq "1" ]; then
-              EXPERIENCE="$YEARS ano"
+              if [ "$MONTHS" -eq "0" ]; then
+                EXPERIENCE="✓ $YEARS ano ✓"
+              else
+                EXPERIENCE="$YEARS ano"
+              fi
             else
-              EXPERIENCE="$YEARS anos"
+              if [ "$MONTHS" -eq "0" ]; then
+                EXPERIENCE="✓ $YEARS anos ✓"
+              else
+                EXPERIENCE="$YEARS anos"
+              fi
             fi
           fi
 
