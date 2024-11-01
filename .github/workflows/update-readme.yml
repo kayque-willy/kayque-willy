@@ -51,22 +51,22 @@ jobs:
               EXPERIENCE="$EXPERIENCE e "
             fi
             if [ "$MONTHS" -eq "1" ]; then
-              EXPERIENCE="✓ ${EXPERIENCE}${MONTHS} mês"
+              EXPERIENCE="✓ ${EXPERIENCE}${MONTHS} mês ✓"
             else
-              EXPERIENCE="✓ ${EXPERIENCE}${MONTHS} meses"
+              EXPERIENCE="✓ ${EXPERIENCE}${MONTHS} meses ✓"
             fi
           fi
 
           # Caso menos de um mês
           if [ -z "$EXPERIENCE" ]; then
-            EXPERIENCE="✓ menos de um mês"
+            EXPERIENCE="✓ menos de um mês ✓"
           fi
 
           echo "EXPERIENCE=$EXPERIENCE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s/✓/${{ env.EXPERIENCE }}/g" README.md
+          sed -i "s/✓.*✓/${{ env.EXPERIENCE }}/g" README.md
 
       - name: Commit and push changes
         run: |
