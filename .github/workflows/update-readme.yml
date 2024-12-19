@@ -3,7 +3,7 @@ name: Update README with current date and experience
 on:
   schedule:
     # Executa diariamente à meia-noite
-    - cron: '0 0 1 * *'
+    - cron: '0 0 2 * *'
   workflow_dispatch: 
 
 jobs:
