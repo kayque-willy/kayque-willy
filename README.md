@@ -39,8 +39,13 @@ Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado,
 
 <h2>🏦 Experiência</h2>
 
-- <b>[GF Innovation & Tech Development Ltda.](https://www.linkedin.com/company/globalfinanceiro)</b>
-    - <b>Desenvolvedor de sistemas web full stack - Pleno I</b> -  mai de 2023 - atualmente ✓ menos de um mês ✓
+- <b>[CI&T Software S/A](https://ciandt.com/br/pt-br/home)</b>
+    - <b>Analista de sistemas web full stack - Pleno </b> -  mai de 2025 - atualmente ✓ menos de um mês ✓
+        - Full Stack (Frontend e Backend)
+        - Web Services e Micro Services
+
+- <b>[GF Innovation & Tech Development Ltda.]((https://gfinnovation.com.br/))</b>
+    - <b>Desenvolvedor de sistemas web full stack - Pleno I</b> -  mai de 2023 - mai de 2025 · 2 anos e 2 meses
     - <b>Desenvolvedor de sistemas bancários - Pleno I</b> - mai de 2023 - atualmente ✓ menos de um mês ✓
         - Internet Banking (Frontend e Backend)
         - Core Banking (Web Services e Micro Services)
