@@ -40,13 +40,14 @@ Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado,
 <h2>🏦 Experiência</h2>
 
 - <b>[CI&T Software S/A](https://ciandt.com/br/pt-br/home)</b>
-    - <b>Analista de sistemas - Pleno </b> -  mai de 2025 - atualmente ✓ 3 meses ✓
+    - <b>Analista de sistemas - Pleno</b> -  mai de 2025 - atualmente ✓ 3 meses ✓
         - Full Stack (Frontend e Backend)
         - Web Services e Micro Services<br/>
 
 - <b>[GF Innovation & Tech Development Ltda.](https://gfinnovation.com.br/)</b>
-    - <b>Desenvolvedor de sistemas web full stack - Pleno I</b> -  mai de 2023 - mai de 2025 · 2 anos
+    - <b>Desenvolvedor de sistemas web - Pleno I</b> -  mai de 2023 - mai de 2025 · 2 anos
         - Desenvolivmento de sistemas bancários (BaaS e SaaS)
+        - Full Stack (Frontend e Backend)
         - Internet Banking (Frontend e Backend)
         - Core Banking (Web Services e Micro Services)
         - Integração com Bancos Externos
