@@ -28,8 +28,8 @@ jobs:
           CURRENT_MONTH=$(date '+%m')
 
           # Calcula a diferença total em meses
-          TOTAL_MONTHS_START=$((START_YEAR * 12 + START_MONTH))
-          TOTAL_MONTHS_CURRENT=$((CURRENT_YEAR * 12 + CURRENT_MONTH))
+          TOTAL_MONTHS_START=$((START_YEAR * 12 + 10#$START_MONTH))
+          TOTAL_MONTHS_CURRENT=$((CURRENT_YEAR * 12 + 10#$CURRENT_MONTH))
           MONTHS_DIFF=$((TOTAL_MONTHS_CURRENT - TOTAL_MONTHS_START))
 
           # Converte para anos e meses
