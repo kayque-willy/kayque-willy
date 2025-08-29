@@ -45,8 +45,8 @@ Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado,
         - Web Services e Micro Services<br/>
 
 - <b>[GF Innovation & Tech Development Ltda.](https://gfinnovation.com.br/)</b>
-    - <b>Desenvolvedor de sistemas web full stack - Pleno I</b> -  mai de 2023 - mai de 2025 · 2 anos e 2 meses
-    - <b>Desenvolvedor de sistemas bancários - Pleno I</b> - mai de 2023 - atualmente ✓ menos de um mês ✓
+    - <b>Desenvolvedor de sistemas web full stack - Pleno I</b> -  mai de 2023 - mai de 2025 · 2 anos
+        - Desenvolivmento de sistemas bancários (BaaS e SaaS)
         - Internet Banking (Frontend e Backend)
         - Core Banking (Web Services e Micro Services)
         - Integração com Bancos Externos
