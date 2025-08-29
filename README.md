@@ -48,7 +48,7 @@ Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado,
     - <b>Desenvolvedor de sistemas web - Pleno I</b> -  mai de 2023 - mai de 2025 · 2 anos
         - Desenvolivmento de sistemas bancários (BaaS e SaaS)
         - Full Stack (Frontend e Backend)
-        - Internet Banking (Frontend e Backend)
+        - Internet Banking
         - Core Banking (Web Services e Micro Services)
         - Integração com Bancos Externos
         - Integração com Sistemas Internos e Externos<br/>
