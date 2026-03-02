@@ -40,7 +40,7 @@ Estou sempre aberto a novos projetos. Sou um profissional comprometido e focado,
 <h2>🏦 Experiência</h2>
 
 - <b>[CI&T Software S/A](https://ciandt.com/br/pt-br/home)</b>
-    - <b>Analista de sistemas - Pleno</b> -  mai de 2025 - atualmente ✓ 9 meses ✓
+    - <b>Analista de sistemas - Pleno</b> -  mai de 2025 - atualmente ✓ 10 meses ✓
         - Full Stack (Frontend e Backend)
         - Web Services e Micro Services<br/>
 
